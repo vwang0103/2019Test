@@ -1,4 +1,11 @@
 
-#test{
-  background-color:blue;
+#test1{
+  background-color:lightblue;
+  border-radius: 5px;
+  text-align: center;
+}
+
+#test2{
+  font-style: italic;
+  text-align: right;
 }
