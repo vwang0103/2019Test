@@ -8,4 +8,5 @@
 #test2{
   font-style: italic;
   text-align: right;
+  text-shadow: 5px 5px 5px red;
 }
